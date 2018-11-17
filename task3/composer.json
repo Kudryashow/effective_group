@@ -1,0 +1,18 @@
+{
+    "name": "alex-dev/test_case",
+    "authors": [
+        {
+            "name": "Boddh1",
+            "email": "boddh1sattva@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "Figures\\": "figures/"
+        }
+    }
+}
